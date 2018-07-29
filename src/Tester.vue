@@ -18,6 +18,18 @@ export default {
 
 }
 
+stuff {
+
+    el: "#Tester",
+
+    data: {
+        {{message}}
+    }
+
+}
+
+
+
 </script>
 
 
