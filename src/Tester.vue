@@ -20,7 +20,7 @@ export default {
 
 stuff {
 
-    el: "#Tester",
+    el: "Tester",
 
     data: {
         {{message}}
