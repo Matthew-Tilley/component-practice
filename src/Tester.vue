@@ -16,19 +16,8 @@ export default {
 
     name: "Tester",
 
-    data: {
-
-        message: "this is a message"
-    
-    },
-
-    methods: {
-        
-    
-
-    }
-
 }
+
 </script>
 
 
