@@ -3,7 +3,7 @@
 <div id="Tester">
     
     <h1>YO</h1>
-    <p>{{message}}</p>
+    <p>This is the message:  {{message}}</p>
 
 </div>
 
