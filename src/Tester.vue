@@ -2,7 +2,8 @@
 
 <div id="Tester">
     
-    {{message}}
+    <h1>YO</h1>
+    <p>{{message}}</p>
 
 </div>
 
@@ -17,7 +18,7 @@ export default {
 
     data: {
 
-        this.message: "this is a message"
+        message: "this is a message"
     
     },
 
