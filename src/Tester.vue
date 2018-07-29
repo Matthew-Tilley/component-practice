@@ -16,6 +16,10 @@ export default {
 
     name: "Tester",
 
+    data: {
+        message: "LKJASLKJSADL"
+    }
+
 }
 
 
