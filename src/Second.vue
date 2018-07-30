@@ -13,8 +13,12 @@
 export default{
 
     data: function(){
+
+        return {
+            
+            message: "LKJASLKJASD"
+        }
         
-        message: "LKJASLKJASD"
 
     }
 
