@@ -2,7 +2,7 @@
 
     <div id="something">
         <h1>HELLO!!!</h1>
-        <h2></h2>
+        <h2>{{message}}</h2>
     </div>
 
 </template>
@@ -12,7 +12,11 @@
 
 export default{
 
-    
+    data: function(){
+        
+        message: "LKJASLKJASD"
+
+    }
 
 }
 
