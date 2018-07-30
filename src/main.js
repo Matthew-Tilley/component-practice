@@ -7,7 +7,3 @@ new Vue({
   render: h => h(App)
 })
 
-new Vue({
-  el: "#Tester",
-  render: h => h(Tester)
-})
