@@ -8,7 +8,14 @@
 
 <script>
 
-data: function() {
+export default {
+
+    name: "something",
+    data: function(){
+
+        message: "HOWDY"
+
+    }
 
 }
 
