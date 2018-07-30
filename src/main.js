@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
-import Tester from "./Tester.vue"
+import Second from "./Second.vue"
 
 new Vue({
   el: '#app',
