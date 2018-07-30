@@ -7,3 +7,8 @@ new Vue({
   render: h => h(App)
 })
 
+new Vue({
+
+  el: "#something",
+
+})
