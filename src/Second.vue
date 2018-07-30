@@ -1,23 +1,14 @@
 <template>
-    <div>
+
+    <div id="something">
         <h1>HELLO!!!</h1>
-        <h2>{{message}}<h2>
+        <h2></h2>
     </div>
+
 </template>
 
 
 <script>
-
-export default {
-
-    name: "something",
-    data: function(){
-
-        message: "HOWDY"
-
-    }
-
-}
 
 </script>
 
