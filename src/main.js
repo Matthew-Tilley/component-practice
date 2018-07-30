@@ -10,5 +10,6 @@ new Vue({
 new Vue({
 
   el: "#something",
+  render: h => h(Second)
 
 })
