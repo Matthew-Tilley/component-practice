@@ -4,7 +4,7 @@
         <h1>HELLO!!!</h1>
         <h2>{{message}}</h2>
         <h3>{{ arg1 + arg2 }}</h3>
-        <h3>THIS IS MULTIPLIED: {{arg3}}</h3>
+        <h3>THIS IS MULTIPLIED: {{arg3}}  Blahblah {{arg4}}</h3>
         <button v-on:click="multiply()">MULTIPLY</button>
     </div>
 
@@ -22,7 +22,8 @@ export default{
             message: "LKJASLKJASD",
             arg1: 2,
             arg2: 9,
-            arg3: ""
+            arg3: "",
+            arg4: "Nonsense!"
 
         }
 
